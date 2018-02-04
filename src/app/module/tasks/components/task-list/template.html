@@ -1,0 +1,4 @@
+<ul>
+    <li ng-if="$ctrl.tasks.length === 0">There are no tasks</li>
+    <li ng-if="$ctrl.tasks.length > 0" ng-repeat="task in $ctrl.tasks">{{ task.title }}</li>
+</ul>
