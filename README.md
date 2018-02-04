@@ -8,3 +8,4 @@ This project is a test for creating an angularJS using webpack
 - [x] Create project structure
 - [ ] Allow multiple languages
 - [ ] Load styles
+- [ ] Add unit tests
